@@ -1,1 +1,1 @@
-First django project.
+Portfolio project django_site.
